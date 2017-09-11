@@ -4,12 +4,12 @@ author: "Estatística 2017"
 date: "11 de setembro de 2017"
 output: html_document
 ---
+# Introdulçao
+```{r}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 ```
 
-12123
+
 
 
 ```{r }
